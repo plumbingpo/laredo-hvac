@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laredohvacco.com/sitemap.xml
